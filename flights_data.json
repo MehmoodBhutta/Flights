@@ -1,0 +1,137 @@
+[
+    {
+        "element_text": "Turkish Airlines",
+        "flight_details": {
+            "airline": "Turkish Airlines",
+            "class": "Economy",
+            "departure_airport": "London Heathrow(LHR)",
+            "destination_airport": "Istanbul (IST)",
+            "travel_dates": "Wed 11 Sep 2024 - Wed 11 Dec 2024",
+            "price": "From \u00a3230",
+            "contact_info": {
+                "phone": "0208 843 4444",
+                "availability": "24hr 7 days a week"
+            }
+        }
+    },
+    {
+        "element_text": "El Al Israel Airlines",
+        "flight_details": {
+            "airline": "El Al Israel Airlines.",
+            "class": "Economy",
+            "departure_airport": "London heathrow(LHR)",
+            "destination_airport": "Tel Aviv (TLV)",
+            "travel_dates": "Thu 13 Jun 2024 - Mon 31 Mar 2025",
+            "price": "From \u00a3234",
+            "contact_info": {
+                "phone": "0208 843 4444",
+                "availability": "24hr 7 days a week"
+            }
+        }
+    },
+    {
+        "element_text": "Swiss Airlines",
+        "flight_details": {
+            "airline": "Swiss Airlines",
+            "class": "Economy",
+            "departure_airport": "London Heathrow(LHR)",
+            "destination_airport": "Cairo (CAI)",
+            "travel_dates": "Thu 13 Jun 2024 - Mon 31 Mar 2025",
+            "price": "From \u00a3375",
+            "contact_info": {
+                "phone": "0208 843 4444",
+                "availability": "24hr 7 days a week"
+            }
+        }
+    },
+    {
+        "element_text": "Etihad Airways",
+        "flight_details": {
+            "airline": "Etihad Airways",
+            "class": "Economy",
+            "departure_airport": "London Heathrow(LHR)",
+            "destination_airport": "Abu Dhabi (AUH)",
+            "travel_dates": "Sun 01 Sep 2024 - Sat 30 Nov 2024",
+            "price": "From \u00a3382",
+            "contact_info": {
+                "phone": "0208 843 4444",
+                "availability": "24hr 7 days a week"
+            }
+        }
+    },
+    {
+        "element_text": "Gulf Air",
+        "flight_details": {
+            "airline": "Gulf Air",
+            "class": "Economy",
+            "departure_airport": "London Heathrow(LHR)",
+            "destination_airport": "Dubai (DXB)",
+            "travel_dates": "Fri 06 Sep 2024 - Sat 12 Oct 2024",
+            "price": "From \u00a3420",
+            "contact_info": {
+                "phone": "0208 843 4444",
+                "availability": "24hr 7 days a week"
+            }
+        }
+    },
+    {
+        "element_text": "Etihad Airways",
+        "flight_details": {
+            "airline": "Etihad Airways",
+            "class": "Economy",
+            "departure_airport": "London Heathrow(LHR)",
+            "destination_airport": "Kuwait (KWI)",
+            "travel_dates": "Sun 04 Aug 2024 - Sat 30 Nov 2024",
+            "price": "From \u00a3426",
+            "contact_info": {
+                "phone": "0208 843 4444",
+                "availability": "24hr 7 days a week"
+            }
+        }
+    },
+    {
+        "element_text": "Etihad Airways",
+        "flight_details": {
+            "airline": "Etihad Airways",
+            "class": "Economy",
+            "departure_airport": "London Heathrow(LHR)",
+            "destination_airport": "Muscat (MCT)",
+            "travel_dates": "Sun 04 Aug 2024 - Sat 30 Nov 2024",
+            "price": "From \u00a3434",
+            "contact_info": {
+                "phone": "0208 843 4444",
+                "availability": "24hr 7 days a week"
+            }
+        }
+    },
+    {
+        "element_text": "Etihad Airways",
+        "flight_details": {
+            "airline": "Etihad Airways",
+            "class": "Economy",
+            "departure_airport": "London Heathrow(LHR)",
+            "destination_airport": "Bahrain (BAH)",
+            "travel_dates": "Sun 04 Aug 2024 - Sat 30 Nov 2024",
+            "price": "From \u00a3450",
+            "contact_info": {
+                "phone": "0208 843 4444",
+                "availability": "24hr 7 days a week"
+            }
+        }
+    },
+    {
+        "element_text": "Turkish Airlines",
+        "flight_details": {
+            "airline": "Turkish Airlines",
+            "class": "Economy",
+            "departure_airport": "London Heathrow(LHR)",
+            "destination_airport": "Doha (DOH)",
+            "travel_dates": "Mon 28 Oct 2024 - Thu 05 Dec 2024",
+            "price": "From \u00a3464",
+            "contact_info": {
+                "phone": "0208 843 4444",
+                "availability": "24hr 7 days a week"
+            }
+        }
+    }
+]
